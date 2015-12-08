@@ -1,2 +1,2 @@
 # thorin
-Thorin Server (Web Server) Python 3
+Thorin Server (Web Framework) Python 3
